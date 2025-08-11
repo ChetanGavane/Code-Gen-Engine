@@ -1,11 +1,11 @@
 
 
-# CodeGen2 (CodeGen2-1B)
+# CodeGenEngine (CodeGen-1.2B)
 
 ## Model description
 
-[CodeGen2] is a family of autoregressive language models for **program synthesis**, introduced in the paper:
+[CodeGen] is a family of autoregressive language models for **program synthesis**:
 
-Unlike the original CodeGen model family (i.e., CodeGen1), CodeGen2 is capable of infilling, and supports more programming languages.
+Unlike the original CodeGen model family CodeGenEngine is capable of infilling, and supports more programming languages.
 
-model sizes are released: `1B`.
+model sizes are released: `1.2B`.
